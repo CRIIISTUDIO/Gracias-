@@ -3,3 +3,14 @@
 	width: 625px;
 	margin: 0px auto;
 }
+
+figure{
+   margin: 0;
+}
+
+
+
+
+figcaption{
+   center: 0px;
+}
